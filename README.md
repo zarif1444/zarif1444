@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zarif1444
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zarif Hossain Fuad
+- 👀 I’m interested in python language
+- 🌱 I’m currently learning ... Ethical hacking
+- 💞️ I’m looking to collaborate on ...python language
+
 
 <!---
 zarif1444/zarif1444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
